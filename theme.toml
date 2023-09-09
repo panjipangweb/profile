@@ -22,15 +22,3 @@ profile_large = "profile.jpg"
 
 accent = "#05a081"
 accent_light = "#82d0c0"
-
-footer_about = """
-A simple dev-blog theme created by Bennett. You can follow him on [Github](https://github.com/bennetthardwick) (if you like).
-"""
-
-not_found_message = """
-This is not the page you're looking for... return back to [safety?](/)
-"""
-
-[author]
-name = "Bennett Hardwick"
-homepage = "https://bennetthardwick.com/"
