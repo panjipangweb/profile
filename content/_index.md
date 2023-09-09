@@ -1,13 +1,11 @@
 +++
-title = "Bennett's Rust Journal"
+title = Panji's Journal"
 +++
 
-## Hello, this is a simple dev blog.
+## Hi there, Panji is here.
 
-This is a simple dev blog that I made [for my website](https://bennetthardwick.com).
-It's quite easy to install, just go to the [project page](https://github.com/bennetthardwick/simple-dev-blog-zola-starter) and follow the prompts.
+A devoted father to my son and three furry feline companions. But in between the responsibilities of parenthood and cat wrangling, I'm also an enthusiastic but somewhat eccentric wordsmith. 
 
-This template does some fancy stuff like [pre-rendering](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) blog posts and nav links,
-pre-fetching your profile image and adding a bunch of common meta tags.
+Welcome to my corner of the internet, where I delight in weaving tales of the unnecessary, the whimsical, and the downright peculiar.
 
-If you're still making up your mind, feel fee to take a look around by clicking the [about](/about/) and [blog](/blog/) nav links.
+Feel free to explore my digital playground by clicking on the "Blog". You never know what you might stumble upon – from heartwarming stories about fatherhood to whimsical adventures with my feline companions, there's something here for everyone. Just kidding...
